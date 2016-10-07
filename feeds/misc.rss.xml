@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Peng's Bolg</title><link>/</link><description></description><lastBuildDate>Sat, 03 Aug 2013 00:00:00 +0800</lastBuildDate><item><title>Hello World</title><link>/hello-world.html</link><description>&lt;p&gt;Hello World! This is my first post.&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href="http://docs.getpelican.com/en/3.2/"&gt;Pelican&lt;/a&gt;, wihich is a static website generator.&lt;/p&gt;
+&lt;p&gt;And thanks to &lt;a href="https://github.com/pengcui"&gt;GitHub&lt;/a&gt;. This blog is hosted on GitHub Pages.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peng</dc:creator><pubDate>Sat, 03 Aug 2013 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:,2013-08-03:hello-world.html</guid></item></channel></rss>
